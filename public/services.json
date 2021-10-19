@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Pediatric Care",
+        "description": "Access Leading Pathology Services From A Strategically Located Global Team. Collaborate With Pathologists Experienced in Liver Disease, Oncology and More",
+        "img": "https://images.unsplash.com/photo-1582719471327-5bd41fcf7f7f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=686&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Gynecology Care",
+        "description": "The NICU has advanced technology and trained healthcare professionals to give special care for the tiniest patients.",
+        "img": "https://images.unsplash.com/photo-1633488781325-d36e6818d0c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Cardio Care",
+        "description": "Our operation theatres are well equipped with medical gas points, medical gas ... Our OT department provides outstanding surgical facilities for 24*7 hours.",
+        "img": "https://images.unsplash.com/photo-1579154491915-611e891d3a5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Nephrology Care",
+        "description": "With the promise and commitment in eye care, Bangladesh Eye Hospital Ltd. is now serving from 9 branches located in Dhanmondi, Banani, Uttara, Chittagong.",
+        "img": "https://images.unsplash.com/photo-1565428766130-572ff8417638?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1194&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Dental Care",
+        "description": "The Department of Obstetrics & Gynaecology of Amar Hospital provides comprehensive services to women in the treatment and management of gynaecologic and obstetric conditions – from routine care to complex high-risk situations.",
+        "img": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Hematology Care",
+        "description": "A cath lab is an examination room equipped with diagnostic imaging equipment. Cath labs are used in the visualization of arteries and chambers of the heart.",
+        "img": "https://images.unsplash.com/photo-1582560475052-682d1beb5f42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=886&q=80"
+    }
+]

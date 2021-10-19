@@ -1,0 +1,11 @@
+.footer{
+    color: white;
+    background-color: rgb(138, 139, 141);
+}
+.footer-title p{
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+}
+.copy-right{
+    border-top: 1px solid white;
+}

@@ -1,0 +1,11 @@
+.card-img{
+    height: 300px;
+}
+.description{
+    height: 180px;
+    color:rgb(145, 140, 140);
+}
+
+.title-name{
+    color: lightslategray;
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Alicon burgers",
+        "degree": "MBBS",
+        "specialist": "cardiologist",
+        "img": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": 2,
+        "name": "David James",
+        "degree": "MBBS, BDS",
+        "specialist": "cardiologist",
+        "img": "https://images.unsplash.com/photo-1584467735815-f778f274e296?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Sarah Albert",
+        "degree": "MBBS, BAMS",
+        "specialist": "cardiologist",
+        "img": "https://images.pexels.com/photos/4173251/pexels-photo-4173251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "name": "Kevin Martins",
+        "degree": "BUMS",
+        "specialist": "Anatomical Pathology",
+        "img": "https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 5,
+        "name": "Jessica Eve",
+        "degree": "BYNS",
+        "specialist": "Cardiovascular/Thoracic Surgery",
+        "img": "https://images.pexels.com/photos/3881247/pexels-photo-3881247.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 6,
+        "name": "Ricky Ashley",
+        "degree": "MBBS",
+        "specialist": "Critical Care Medicine",
+        "img": "https://images.pexels.com/photos/4033148/pexels-photo-4033148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 7,
+        "name": "leborn James",
+        "degree": "MBBS, BYNS",
+        "specialist": "Dermatology",
+        "img": "https://images.pexels.com/photos/8326332/pexels-photo-8326332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]

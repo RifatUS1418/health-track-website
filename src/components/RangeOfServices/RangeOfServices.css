@@ -1,0 +1,14 @@
+.body{
+    background: #dae9fa;
+}
+.banner{
+    width: 100%;
+}
+.banner img{
+    width: 100%;
+}
+
+.font{
+    font-weight: 500;
+    /* font-size: 15px; */
+}
