@@ -3,15 +3,13 @@
       
       Project Name: Health Track Hospital
       
-      project link :  https://health-track-hospital.web.app  
+      project link :  https://health-track-hospital.web.app/
 
-* This project is based on front-end with React framework & made with love.
+•	Build a fully responsive website. This project is based on front-end with React framework. 
 
-* Used React router & and Integrated Google Firebase which provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment.
+•	Designed Google Sign-in, user Login/Sign-in, and Email & Password Authentication system using firebase. 
 
-* Integrated Google Login system 
-
-* Used Email & Password Authentication that allows users to login
+•	Developed Private routes for advanced security.
 
 
 # Getting Started with Create React App
